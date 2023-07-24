@@ -38,6 +38,9 @@ Second is to set config file for training which is already present on github.
 After that we can train our pipeline with just one line of code.
 "python -m spacy train config.cfg --paths.train ./train.spacy --paths.dev ./dev.spacy"
 
-2. Validation- The model is validated on 19 resumes.
-3. Testing - Testing is done on a sample resume for NE predictions.
+The link for trained model isgiven below. It couldn't be added on github because size was exceeding github size parameter. 
+https://www.dropbox.com/s/s09w9x9t1jc8o5e/generated_model-20230724T125427Z-001.zip?dl=0
+
+3. Validation- The model is validated on 19 resumes.
+4. Testing - Testing is done on a sample resume for NE predictions.
 
