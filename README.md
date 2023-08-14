@@ -1,4 +1,4 @@
-# Resume Parsing Using RoBERTa-based Transfer Learning
+# Resume Parsing Using BERT based Transfer Learning
 
 This Resume Parser uses BERT-base-cased Transfer Learning for Named Entity Recognition (NER). 
 It can extract key resume information accurately with advanced NLP techniques.
